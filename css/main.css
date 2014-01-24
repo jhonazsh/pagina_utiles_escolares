@@ -59,7 +59,18 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+.color
+{
+    background: yellow;
+}
+.app_tam
+{
+    margin-top: 25px;
+}
+.txt
+{
+    text-align: justify;
+}
 /*CSS para Header*/
 .app_header
 {
@@ -130,8 +141,52 @@ ul
 {
     width: 100%;
 }
+.app_margen
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 /*********/
 
+/*Formulario*/
+
+.app_text
+{
+    text-align: center;
+}
+.app-button
+{
+    margin-bottom: 3px;
+}
+.app_margenform
+{
+    margin-top: 10px;
+}
+.app-separar
+{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.app-tam
+{
+    font-size: 11px;
+}
+.margen
+{
+    margin: 0 3px;
+}
+
+/***************/
+
+/*Seccion Envios*/
+
+
+
+
+
+
+
+/***************/
 
 
 
